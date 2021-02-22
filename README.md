@@ -24,6 +24,8 @@ Hide Your Phising links or Short your big links Easily with this tool
 
 # Single Command
 
-* ```apt update ; apt install git python python2 -y ; git clone http://github.com/nfs-tech-bd/NFS-HIDER ; cd NFS-HIDER ; python2 NFS-HIDER.py```
+* ```
+apt update ; apt install git python python2 -y ; git clone http://github.com/nfs-tech-bd/NFS-HIDER ; cd NFS-HIDER ; python2 NFS-HIDER.py
+```
 
 Inbox me for pass
