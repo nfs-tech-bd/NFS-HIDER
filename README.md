@@ -6,7 +6,8 @@ Hide Your Phising links or Short your big links Easily with this tool
 <a href="https://github.com/nfs-tech-bd/followers"><img title="Followers" src="https://img.shields.io/github/followers/nfs-tech-bd?color=blue&style=flat-square"></a>
 <a href="https://github.com/nfs-tech-bd/NFS-HIDER/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/nfs-tech-bd/NFS-HIDER?color=red&style=flat-square"></a>
 </p>
-# termux commands
+
+# Termux commands
 
 * `apt update`
 
